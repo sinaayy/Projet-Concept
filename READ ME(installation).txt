@@ -1,0 +1,6 @@
+Pour lancer l'interface nous avons besoin d'un module.
+Entez dans votre invite de commande:
+-pip install streamlit
+Pour lancer l'interface tapez:
+-cd "chemin du projet"
+-streamlit run interface.py
